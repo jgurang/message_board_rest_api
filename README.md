@@ -16,6 +16,13 @@ Documentation
 Detailed Documentation along with access and modification capabilities
 can be found here: <http://minds57.pythonanywhere.com/>
 
+Explore
+=======
+
+The API is running on a webserver here:
+<http://minds57.pythonanywhere.com/> Feel free to interact with the API
+via curl, http, or through the web browser.
+
 Authentication
 ==============
 
